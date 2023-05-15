@@ -1,10 +1,7 @@
 # Top-Open-Source-Programs-and-Internships
 This repository contains information about the top open-source programs and internships available for students and professionals. The information in this repository is updated regularly, so you can be sure that you are always up-to-date on the latest opportunities.
 
-| Program/Internship | Requirements | Benefits |
+| Program/Internship | Application Time | Stipend |
 | --- | --- | --- |
-| Google Summer of Code (GSoC) | - Students must be at least 18 years old at the time of registration<br>- Students must be enrolled in a post-secondary academic program<br>- Students must be eligible to work in their country of residence | - Students receive a stipend for their work on open source projects<br>- Students gain valuable experience in software development<br>- Students work with experienced mentors who provide guidance and support |
-| Outreachy | - Applicants must be at least 18 years old<br>- Applicants must belong to a group underrepresented in tech<br>- Applicants must be eligible to work in their country of residence | - Participants receive a stipend for their work on open source projects<br>- Participants gain experience in software development<br>- Participants work with experienced mentors who provide guidance and support |
-| GitHub Internships | - Students must be at least 18 years old<br>- Students must be enrolled in a post-secondary academic program<br>- Students must be eligible to work in their country of residence | - Interns receive a stipend for their work on open source projects<br>- Interns gain experience in software development<br>- Interns work with experienced mentors who provide guidance and support |
-| Mozilla Open Source Support (MOSS) | - Projects must align with Mozilla's mission<br>- Projects must be open source | - Projects receive funding and support<br>- Projects gain visibility and recognition in the open source community |
-| Apache Software Foundation | - Projects must be open source | - Projects receive support from the foundation<br>- Projects gain visibility and recognition in the open source community |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | January 15 - April 1 | 3000 USD (in Bitcoin) |
+
