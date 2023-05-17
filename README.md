@@ -3,7 +3,7 @@ This repository contains information about the top open-source programs and inte
 
 | Program/Internship | Timeline | Stipend |
 | --- | --- | --- |
-| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | January 15 - April 1 | $3000 USD (in Bitcoin) |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | [check timeline here](https://developers.google.com/open-source/gsoc/timeline) | $3000 USD (in Bitcoin) |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | March 20 - April 4 | $1500 USD (Medium Project) <br> $3000 USD ( Large Project) |
 | [MLH Fellowship](https://fellowship.mlh.io/) | [Check Website](https://fellowship.mlh.io/programs/open-source) | $5000 USD |
 | [Processing Foundation Fellowship Program](https://processingfoundation.org/fellowships) | [Check Website](https://processingfoundation.org/fellowships) | $10000 USD ( for 2023) |
